@@ -1,5 +1,0 @@
-add_test([=[HW0.test_hello_world]=]  [==[C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/ut_all.exe]==] [==[--gtest_filter=HW0.test_hello_world]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[HW0.test_hello_world]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[General.sanity_check]=]  [==[C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/ut_all.exe]==] [==[--gtest_filter=General.sanity_check]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[General.sanity_check]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  ut_all_TESTS HW0.test_hello_world General.sanity_check)

@@ -1,3 +1,0 @@
-HW0.test_hello_world 1 0.0211286
-General.sanity_check 1 0.0185478
----
