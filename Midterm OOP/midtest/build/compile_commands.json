@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=gnu++17 -Wall -pedantic -o CMakeFiles\\ut_all.dir\\src\\hello.cpp.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\src\\hello.cpp\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\src\\hello.cpp",
+  "output": "CMakeFiles\\ut_all.dir\\src\\hello.cpp.obj"
+},
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=gnu++17 -Wall -pedantic -o CMakeFiles\\ut_all.dir\\test\\ut_sanity_check.cpp.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\test\\ut_sanity_check.cpp\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\test\\ut_sanity_check.cpp",
+  "output": "CMakeFiles\\ut_all.dir\\test\\ut_sanity_check.cpp.obj"
+},
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=gnu++17 -Wall -pedantic -o CMakeFiles\\ut_all.dir\\test\\ut_hello.cpp.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\test\\ut_hello.cpp\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\test\\ut_hello.cpp",
+  "output": "CMakeFiles\\ut_all.dir\\test\\ut_hello.cpp.obj"
+},
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googlemock/include\" -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googlemock\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googlemock/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googlemock\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -I\"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/_deps/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:\\Users\\ChengYu\\Desktop\\Midterm OOP\\midtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

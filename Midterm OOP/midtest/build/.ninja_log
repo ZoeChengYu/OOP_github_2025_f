@@ -1,0 +1,15 @@
+# ninja log v6
+36	829	7847003311784655	CMakeFiles/ut_all.dir/src/hello.cpp.obj	31af396bc0581a8
+28	2834	7847003311698665	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	7915aca02bb4bac
+18941	21707	7847003528285812	ut_all.exe	3587f63eaaa00134
+44	3222	7847003311859942	CMakeFiles/ut_all.dir/test/ut_sanity_check.cpp.obj	2cd9936abe1b4579
+6	17863	7847003311478106	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	c700cd7d52d4f0af
+18656	18996	7847003497985814	lib/libgmock.a	e864fe3d5a8bf565
+63	3460	7847003312050571	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	5d6c7d89bfbd983b
+17865	18656	7847003490066456	lib/libgtest.a	36b96e0fafa5afbb
+18941	21707	7847003528285812	C:/Users/ChengYu/Desktop/Midterm OOP/midtest/build/ut_all[1]_tests.cmake	3587f63eaaa00134
+54	3258	7847003311960396	CMakeFiles/ut_all.dir/test/ut_hello.cpp.obj	eacf579bc9298d3f
+18941	21707	7847003528285812	ut_all[1]_tests.cmake	3587f63eaaa00134
+18670	18941	7847003498133571	lib/libgtest_main.a	50b2ccaf236aac10
+18996	19238	7847003501379524	lib/libgmock_main.a	93d289be3dd2ca63
+18	6604	7847003311594606	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	c17d4d2c63c79979

@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/ChengYu/Desktop/Midterm OOP/midterm/cmake-build-debug/ut_all[1]_tests.cmake")
+  include("C:/Users/ChengYu/Desktop/Midterm OOP/midterm/cmake-build-debug/ut_all[1]_tests.cmake")
+else()
+  add_test(ut_all_NOT_BUILT ut_all_NOT_BUILT)
+endif()
