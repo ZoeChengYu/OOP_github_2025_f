@@ -1,0 +1,39 @@
+set(SRC_FILES
+    Account.cpp
+    Bank.cpp
+    BusinessAccount.cpp
+    CreditCardProduct.cpp
+    FixedDepositProduct.cpp
+    InsuranceProduct.cpp
+    MutualFundProduct.cpp
+    PersonalAccount.cpp
+    TrustAccount.cpp
+)
+
+set(INCLUDE_FILES
+    Account.hpp
+    AccountType.hpp
+    Bank.hpp
+    BusinessAccount.hpp
+    CreditCardProduct.hpp
+    FixedDepositProduct.hpp
+    IBankProduct.hpp
+    InsuranceProduct.hpp
+    IRevenueGeneratable.hpp
+    IRiskEvaluable.hpp
+    MutualFundProduct.hpp
+    PersonalAccount.hpp
+    ProductType.hpp
+    TrustAccount.hpp
+)
+
+set(TEST_FILES
+    ut_bank.cpp
+    ut_business_account.cpp
+    ut_creditcard_product.cpp
+    ut_fixed_deposit_product.cpp
+    ut_insurance_product.cpp
+    ut_mutualfund_product.cpp
+    ut_personal_account.cpp
+    ut_trust_account.cpp
+)
