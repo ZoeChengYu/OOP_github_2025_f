@@ -14,10 +14,10 @@
 | 10 | 11/12, 11/13 | [Physical Computer-based Midterm](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/Midterm%20OOP) | &#x274c; | &#x274c; |
 | 11 | 11/19, 11/20 | [Lec05: Polymorphism​](./Ch7.pdf) |​ [Homework 05 (Wed.)](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW5) | &#x2705; |
 | 12 | 11/26, 11/27 | [Lec05: Polymorphism​](./Ch7.pdf) | [continuous](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW5) | &#x274c; |
-| 13 | 12/03, 12/04 | [Lec05: Polymorphism​ - Lab](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/Lab01) | [Homework 06 (Wed.)](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW6) | &#x2705; |
+| 13 | 12/03, 12/04 | [Lec05: Polymorphism​ - Lab](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/LAB01) | [Homework 06 (Wed.)](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW6) | &#x2705; |
 | 14 | 12/10, 12/11 | [Lec06: Composition & Interface](./Ch8.pdf) | [continuous](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW6) | &#x274c; |
 | 15 | 12/17, 12/18 | [Lec06: Composition & Interface](./Ch8.pdf) | [Homework 07 (Wed.)](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW7) | &#x274c; |
-| 16 | 12/24, 12/25 | [Lec06: Composition & Interface - Lab](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/Lab02)/ No class | [continuous](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW7) | &#x2705; |
+| 16 | 12/24, 12/25 | [Lec06: Composition & Interface - Lab](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/LAB02)/ No class | [continuous](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/OOP2025f_HW7) | &#x2705; |
 | 17 | 12/31, 01/01 | Physical Hand-Written Final / No class | &#x274c; | &#x274c; |
 | 18 | 01/07, 01/08 | Lec07: Experience sharing & OOPL - Preparation / [Physical Computer-based Final](https://github.com/ZoeChengYu/OOP_github_2025_f/tree/final/UCYN) | &#x274c; | &#x274c; |
 
